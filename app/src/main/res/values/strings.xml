@@ -5,4 +5,10 @@
     <string name="password">Enter Your Password</string>
     <string name="loginbtn">Login Now</string>
     <string name="Appname">Student Marks Calculater</string>
+    <string name="tvStudent">Student Name</string>
+    <string name="hStudent">Enter Student Name</string>
+    <string name="tv1">Mathematics</string>
+    <string name="tv2">Science</string>
+    <string name="title">Enter Marks</string>
+    <string name="cal">Calculate</string>
 </resources>
