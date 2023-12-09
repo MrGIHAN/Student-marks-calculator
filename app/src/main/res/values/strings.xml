@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Student Marks Calculater</string>
+    <string name="login">LOGIN</string>
+    <string name="Eamil">Enter Your Email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="loginbtn">Login Now</string>
+    <string name="Appname">Student Marks Calculater</string>
 </resources>
