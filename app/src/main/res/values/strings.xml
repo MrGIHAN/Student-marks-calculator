@@ -11,4 +11,6 @@
     <string name="tv2">Science</string>
     <string name="title">Enter Marks</string>
     <string name="cal">Calculate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
